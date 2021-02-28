@@ -15,8 +15,11 @@ Personal page：[liuzhiyong97.github.io](liuzhiyong97.github.io)
 ### EDUCATION
 
 - **University of Liverpool**（2015.09-2019.06）
+
   Infomation and Computing Science
+
 - **Imperial College London**（2020.10-2021.10）
+
   Applied Computational Science and Engineering
 
 
@@ -24,8 +27,11 @@ Personal page：[liuzhiyong97.github.io](liuzhiyong97.github.io)
 ### PROFESSIONAL EXPERIENCE
 
 - Suzhou Digital City Engineering Research Center Ltd.（2019.09-2019.11）
+
   Database Engineer
+
 - Jiangsu Hengtong Intelligent Technology Ltd.（2020.6-2020.9）
+
   Java Development Engineer
 
 
