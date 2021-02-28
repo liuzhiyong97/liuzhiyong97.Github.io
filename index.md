@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## LIU ZHIYONG
 
-You can use the [editor on GitHub](https://github.com/liuzhiyong97/liuzhiyong97.Github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Phone：17638191365
 
-### Markdown
+Address：Zhengzhou, Henan, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email：nirvana.liu@outlook.com
 
-```markdown
-Syntax highlighted code block
+Personal page：[liuzhiyong97.github.io](liuzhiyong97.github.io)
 
-# Header 1
-## Header 2
-### Header 3
+### Education
 
-- Bulleted
-- List
+- **University of Liverpool**（2015.09-2019.06）
 
-1. Numbered
-2. List
+  ​	Infomation and Computing Science
 
-**Bold** and _Italic_ and `Code` text
+- **Imperial College London**（2020.10-2021.10）
 
-[Link](url) and ![Image](src)
-```
+  ​	Applied Computational Science and Engineering
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### PROFESSIONAL EXPERIENCE
 
-### Jekyll Themes
+- Suzhou Digital City Engineering Research Center Ltd.（2019.09-2019.11）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuzhiyong97/liuzhiyong97.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  Database Engineer
 
-### Support or Contact
+- Jiangsu Hengtong Intelligent Technology Ltd.（2020.6-2020.9）
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### PROJECT EXPERIENCE
+
+- Maze Solving Game-Based Learning Application
+- The Fate of Asteroid Predictor and UK Hazard Mapper for Its Impact
