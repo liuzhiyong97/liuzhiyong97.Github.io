@@ -1,6 +1,6 @@
 ## LIU ZHIYONG
 
-### Profile
+### PROFILE
 
 Phone：17638191365
 
@@ -10,7 +10,7 @@ Email：nirvana.liu@outlook.com
 
 Personal page：[liuzhiyong97.github.io](liuzhiyong97.github.io)
 
-### Education
+### EDUCATION
 
 - **University of Liverpool**（2015.09-2019.06）
 
